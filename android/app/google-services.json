@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842721442582",
+    "project_id": "notes-app-92bc4",
+    "storage_bucket": "notes-app-92bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842721442582:android:868c116acb02b5c69e6e37",
+        "android_client_info": {
+          "package_name": "com.example.pokedex_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842721442582-cvpuung2d78gl61ol2q2q7sqvmdvb1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgZK-L4SJ2i0kegYDO3z8Sj-yR3vw_4ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842721442582-cvpuung2d78gl61ol2q2q7sqvmdvb1rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
